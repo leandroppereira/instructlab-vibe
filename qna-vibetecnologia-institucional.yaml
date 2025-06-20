@@ -120,6 +120,6 @@ document_outline: |
   Dados sobre os times de futebol de São Paulo
 document:
   repo: https://github.com/leandroppereira/instructlab-vibe.git
-  commit: d285b685d186560351dec7e386706c18c72b4470
+  commit: 642561e
   patterns:
     - vibetecnologia-institucional.md
