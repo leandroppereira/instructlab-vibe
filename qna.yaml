@@ -1,0 +1,125 @@
+version: 3
+domain: institucional
+created_by: leandropereira
+seed_examples:
+  - context: |
+            A Vibe Tecnologia é uma empresa brasileira de tecnologia da informação especializada em soluções para transformação digital. Fundada em 2011, integra o Grupo Vibe e possui certificação Great Place to Work (GPTW). A sede da empresa está em Belém (PA), com unidades também em São Paulo (SP) e Florianópolis (SC).
+    questions_and_answers:
+      - question: |
+          O que é a Vibe Tecnologia?
+        answer: |
+          A Vibe Tecnologia é uma empresa brasileira de TI especializada em soluções de transformação digital.
+      - question: |
+          Onde fica a sede da Vibe Tecnologia?
+        answer: |
+          A sede da Vibe Tecnologia fica em Belém, no estado do Pará.
+      - question: |
+          Quando a Vibe Tecnologia foi fundada?
+        answer: |
+          A Vibe Tecnologia foi fundada em 2011.
+  - context: |
+            A Vibe oferece serviços como Squad as a Service, modernização de aplicações, integração de sistemas, DevOps, conteinerização e consultoria para startups. A empresa atua em projetos sob demanda e com times ágeis dedicados.
+    questions_and_answers:
+      - question: |
+          Quais serviços a Vibe Tecnologia oferece?
+        answer: |
+          É a formação de equipes ágeis dedicadas para desenvolvimento de software sob demanda.
+      - question: |
+          A Vibe trabalha com projetos de modernização?
+        answer: |
+          Sim, a Vibe realiza modernização de aplicações usando práticas modernas e tecnologias como contêineres.
+      - question: |
+          Sobre squads, como é esse formato de atuação?
+        answer: |
+          A Vibe Tecnologia oferece uma quantidade de perfis formatado de acordo com as necessidades do cliente e a responsabilidade sobre garantir as alocações, prazos e entrega são todos da empresa, sempre alinhando as priorizações com o cliente. É um serviço personalizado.
+  - context: |
+            Entre os principais clientes da Vibe estão Banpará, Chubb, Hydro, SEFAZ-RJ e UFPA. A empresa atua em diversos setores, incluindo governo, finanças, seguros e educação.
+
+    questions_and_answers:
+      - question: |
+          Quem são alguns dos clientes da Vibe Tecnologia?
+        answer: |
+          Banpará, Chubb, Hydro, SEFAZ-RJ e UFPA.
+      - question: |
+          A Vibe atua com clientes do setor público?
+        answer: |
+          Sim, a Vibe atende clientes do setor público como SEFAZ-RJ e UFPA.
+      - question: |
+          Em quais setores a Vibe atua?
+        answer: |
+          Governo, finanças, seguros e educação.
+  - context: |
+      A empresa mantém parcerias estratégicas com Red Hat, Microsoft, Oracle e Salesforce. Essas parcerias fortalecem sua capacidade de entregar soluções robustas e atualizadas.
+    questions_and_answers:
+      - question: |
+          Quais são os parceiros estratégicos da Vibe?
+        answer: |
+          Red Hat, Microsoft, Oracle e Salesforce.
+      - question: |
+          A Vibe é parceira da Red Hat?
+        answer: |
+          Sim, a Vibe é parceira da Red Hat.
+      - question: |
+          Por que as parcerias são importantes para a Vibe?
+        answer: |
+          Elas permitem oferecer soluções tecnológicas mais robustas e atualizadas aos clientes.
+  - context: |
+      A Vibe conta com mais de 100 colaboradores, chamados de “Vibers”, e é certificada como um Great Place to Work. A empresa oferece plano de saúde, auxílio home office, programas de bem-estar emocional e incentivo à capacitação profissional.
+    questions_and_answers:
+      - question: |
+          Quantos colaboradores trabalham na Vibe?
+        answer: |
+          A Vibe conta com mais de 100 colaboradores.
+      - question: |
+          A Vibe é certificada como um bom lugar para trabalhar?
+        answer: |
+          Sim, a Vibe possui o selo Great Place to Work.
+      - question: |
+          Quais benefícios a Vibe oferece aos colaboradores?
+        answer: |
+          Plano de saúde, home office, bem-estar emocional e apoio à capacitação.
+  - context: |
+      A vibe Tecnologia possui 4 sócios: Sergio Lima, Emanuel Estumano, Rafael Mesquita e Leandro Pereira
+    questions_and_answers:
+      - question: |
+          Quem são os fundadores da Vibe Tecnologia?
+        answer: |
+          Sergio Lima e Emanuel Estumano.
+      - question: |
+          Quem é o CEO da Vibe Tecbnologia?
+        answer: |
+          Sergio Lima.
+      - question: |
+          Quem é o COO (chefe de operações)  da Vibe Tecbnologia?
+        answer: |
+          Emanuel Estumano.
+      - question: |
+          Quem é o CFO (chefe do fnanceiro)  da Vibe Tecbnologia?
+        answer: |
+          Rafael Mesquita.
+      - question: |
+          Quem é o CTO (Diretor de Tecnologi)  da Vibe Tecbnologia?
+        answer: |
+          Leandro Pereira.
+  - context: |
+      A Vibe Tecnologia Investe muuito na cultura empresarial e no cuidado com as pessoas, sendo destaque nos úlimos anos com a premiação GPTW, Great Place to Work.
+    questions_and_answers:
+      - question: |
+          Quantas premiações GPTW a Vibe Tecnologia tem?
+        answer: |
+          São 5 premiações
+      - question: |
+         Qual melhor colocação que a Vibe tecnologia alcançou?
+        answer: |
+          Primeiro lugar na região norte, entre as empresas de pequeno porte (0-99 funcionários)
+      - question: |
+          Qual foi a última premiação da Vibe tecnologia no GPTW?
+        answer: |
+          Foi em 2024, conquiatando o quinto lugar entre empresas de médio porte, entre 99 e 100 funcionários.
+document_outline: |
+  Dados sobre os times de futebol de São Paulo
+document:
+  repo: https://github.com/leandroppereira/instructlab-vibe.git
+  commit: 642561e
+  patterns:
+    - vibetecnologia-institucional.md
