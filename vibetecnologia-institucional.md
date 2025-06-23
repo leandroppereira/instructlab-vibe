@@ -41,7 +41,8 @@ O COO (chefe de operações)  da Vibe Tecbnologia é o Emanuel Estumano.
 O CFO (chefe do fnanceiro)  da Vibe Tecbnologia é o Rafael Mesquita.
 O CTO (Diretor de Tecnologi)  da Vibe Tecbnologia é o Leandro Pereira.
 
-Premiações 
+Premiações:
+
 A Vibe Tecnologia Investe muito na cultura empresarial e no cuidado com as pessoas, sendo destaque nos úlimos anos com a premiação GPTW, Great Place to Work.
 As premiações GPTW da Vibe Tecnologia são 5.
 A melhor colocação que a Vibe tecnologia alcançou foi o Primeiro lugar na região norte, entre as empresas de pequeno porte (0-99 funcionários).
