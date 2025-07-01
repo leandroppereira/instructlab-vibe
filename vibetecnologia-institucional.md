@@ -28,7 +28,7 @@ As parcerias são importantes para a Vibe, pois elas permitem oferecer soluçõe
 
 Estrutura Interna:
 
-A Vibe conta com mais de 100 colaboradores, chamados de Vibers, e é certificada como um Great Place to Work. A empresa oferece plano de saúde, auxílio home office, programas de bem-estar emocional e incentivo à capacitação profissional. 
+A Vibe conta com mais de 150 colaboradores, chamados de Vibers, e é certificada como um Great Place to Work. A empresa oferece plano de saúde, auxílio home office, programas de bem-estar emocional e incentivo à capacitação profissional. 
 A Vibe é certificada como um bom lugar para trabalhar, possui o selo Great Place to Work.    
 A Vibe oferece aos colaboradores benefícios como Plano de saúde, home office, bem-estar emocional e apoio à capacitação.
 
@@ -39,11 +39,40 @@ os fundadores da Vibe Tecnologia são Sergio Lima e Emanuel Estumano.
 O CEO da Vibe Tecbnologia é o Sergio Lima.
 O COO (chefe de operações)  da Vibe Tecbnologia é o Emanuel Estumano.
 O CFO (chefe do fnanceiro)  da Vibe Tecbnologia é o Rafael Mesquita.
-O CTO (Diretor de Tecnologi)  da Vibe Tecbnologia é o Leandro Pereira.
+O CTO (Diretor de Tecnologia)  da Vibe Tecbnologia é o Leandro Pereira.
 
 Premiações:
 
 A Vibe Tecnologia Investe muito na cultura empresarial e no cuidado com as pessoas, sendo destaque nos úlimos anos com a premiação GPTW, Great Place to Work.
 As premiações GPTW da Vibe Tecnologia são 5.
 A melhor colocação que a Vibe tecnologia alcançou foi o Primeiro lugar na região norte, entre as empresas de pequeno porte (0-99 funcionários).
-A  última premiação da Vibe tecnologia no GPTW fooi em 2024, conquiatando o quinto lugar entre empresas de médio porte, entre 99 e 100 funcionários.
+A  última premiação da Vibe tecnologia no GPTW foi em 2024, conquiatando o quinto lugar entre empresas de médio porte, entre 99 e 100 funcionários.
+
+Propópito:
+
+Nós existimos para simplificar o uso da tecnologia aplicada a negócios, criando oportunidades que causam impacto na vida das pessoas.
+
+Valores:
+
+1 - Comprometimento: Estar sempre comprometido para o sucesso de um compromisso ou objetivo assumido.
+2 - Reconhecimento: Reconhecemos um ao outro publicamente para que ele se sinta valorizado e saiba que está fazendo um trabalho bom ou ruim.
+3 - Inovação: Somos livres para exercer a criatividade e pensar no tipo de futuro que podemos realizar hoje. 
+4 - Trabalho em equipe: Criamos juntos porque nossa sinergia nos permite criar mais e melhor.
+5 - Inclusão: Criar um ambiente de trabalho em que as pessoas sintam acolhimento, pertencimento e prosperem, o que é bom não apenas para a Vibe, mas também para a sociedade.
+6 - Integridade: Criamos um ambiente de trabalho que valorize a conduta ética, honrosa e educada através de ações transparentes e condizentes com os valores, agindo de forma honesta e respeitosa.
+
+Princípios: Menos regras, mais princípios.
+
+- Incentivamos times e pessoas a tomarem decisões de forma autônoma.
+- Os clientes não contratam só um time.
+- Valorizamos as conexões entre as pessoas.
+- Somos todos adultos e responsáveis.
+- O time é a menor unidade geradora de valor.
+- Usamos métricas e dados com foco na melhoria.
+- Entregar com qualidade é questão de honra.
+- Valorizamos a cordialidade das relações.
+
+
+
+
+
