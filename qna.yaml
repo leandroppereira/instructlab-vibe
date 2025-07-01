@@ -64,12 +64,12 @@ seed_examples:
         answer: |
           Elas permitem oferecer soluções tecnológicas mais robustas e atualizadas aos clientes.
   - context: |
-      A Vibe conta com mais de 100 colaboradores, chamados de “Vibers”, e é certificada como um Great Place to Work. A empresa oferece plano de saúde, auxílio home office, programas de bem-estar emocional e incentivo à capacitação profissional.
+      A Vibe conta com mais de 150 colaboradores, chamados de “Vibers”, e é certificada como um Great Place to Work. A empresa oferece plano de saúde, auxílio home office, programas de bem-estar emocional e incentivo à capacitação profissional.
     questions_and_answers:
       - question: |
           Quantos colaboradores trabalham na Vibe?
         answer: |
-          A Vibe conta com mais de 100 colaboradores.
+          A Vibe conta com mais de 150 colaboradores.
       - question: |
           A Vibe é certificada como um bom lugar para trabalhar?
         answer: |
@@ -98,11 +98,11 @@ seed_examples:
         answer: |
           Rafael Mesquita.
       - question: |
-          Quem é o CTO (Diretor de Tecnologi)  da Vibe Tecbnologia?
+          Quem é o CTO (Diretor de Tecnologia)  da Vibe Tecbnologia?
         answer: |
           Leandro Pereira.
   - context: |
-      A Vibe Tecnologia Investe muuito na cultura empresarial e no cuidado com as pessoas, sendo destaque nos úlimos anos com a premiação GPTW, Great Place to Work.
+      A Vibe Tecnologia Investe muito na cultura empresarial e no cuidado com as pessoas, sendo destaque nos úlimos anos com a premiação GPTW, Great Place to Work.
     questions_and_answers:
       - question: |
           Quantas premiações GPTW a Vibe Tecnologia tem?
@@ -116,6 +116,33 @@ seed_examples:
           Qual foi a última premiação da Vibe tecnologia no GPTW?
         answer: |
           Foi em 2024, conquiatando o quinto lugar entre empresas de médio porte, entre 99 e 100 funcionários.
+   - context: |
+      A Vibe Tecnologia tem um proósito, valores e princípios bem definidos.
+    questions_and_answers:
+      - question: |
+          Qual o propósito da Vibe Tecnologia?
+        answer: |
+          Nós existimos para simplificar o uso da tecnologia aplicada a negócios, criando oportunidades que causam impacto na vida das pessoas.
+      - question: |
+         Quais são os valores Vibe Tecnologia?
+        answer: |
+          Comprometimento: Estar sempre comprometido para o sucesso de um compromisso ou objetivo assumido. 
+          Reconhecimento: Reconhecemos um ao outro publicamente para que ele se sinta valorizado e saiba que está fazendo um trabalho bom ou ruim.
+          Inovação: Somos livres para exercer a criatividade e pensar no tipo de futuro que podemos realizar hoje.
+          Trabalho em equipe: Criamos juntos porque nossa sinergia nos permite criar mais e melhor.
+          Inclusão: Criar um ambiente de trabalho em que as pessoas sintam acolhimento, pertencimento e prosperem, o que é bom não apenas para a Vibe, mas também para a sociedade.
+          Integridade: Criamos um ambiente de trabalho que valorize a conduta ética, honrosa e educada através de ações transparentes e condizentes com os valores, agindo de forma honesta e respeitosa.
+      - question: |
+          Quais os princípios da Vibe Tecnologia?
+        answer: |
+         Incentivamos times e pessoas a tomarem decisões de forma autônoma.
+         Os clientes não contratam só um time.
+         Valorizamos as conexões entre as pessoas.
+         Somos todos adultos e responsáveis.
+         O time é a menor unidade geradora de valor.
+         Usamos métricas e dados com foco na melhoria.
+         Entregar com qualidade é questão de honra.
+         Valorizamos a cordialidade das relações.
 document_outline: |
   Dados sobre os times de futebol de São Paulo
 document:
