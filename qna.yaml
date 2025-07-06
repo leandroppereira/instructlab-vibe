@@ -144,9 +144,9 @@ seed_examples:
          Entregar com qualidade é questão de honra.
          Valorizamos a cordialidade das relações.
 document_outline: |
-  Dados sobre os times de futebol de São Paulo
+  Dados internos referentes à Vibe Tecnologia
 document:
   repo: https://github.com/leandroppereira/instructlab-vibe.git
-  commit: 642561e
+  commit: d26d16c
   patterns:
     - vibetecnologia-institucional.md
