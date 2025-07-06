@@ -34,7 +34,6 @@ seed_examples:
           A Vibe Tecnologia oferece uma quantidade de perfis formatado de acordo com as necessidades do cliente e a responsabilidade sobre garantir as alocações, prazos e entrega são todos da empresa, sempre alinhando as priorizações com o cliente. É um serviço personalizado.
   - context: |
             Entre os principais clientes da Vibe estão Banpará, Chubb, Hydro, SEFAZ-RJ e UFPA. A empresa atua em diversos setores, incluindo governo, finanças, seguros e educação.
-
     questions_and_answers:
       - question: |
           Quem são alguns dos clientes da Vibe Tecnologia?
@@ -126,7 +125,7 @@ seed_examples:
       - question: |
          Quais são os valores Vibe Tecnologia?
         answer: |
-          Comprometimento: Estar sempre comprometido para o sucesso de um compromisso ou objetivo assumido. 
+          Comprometimento: Estar sempre comprometido para o sucesso de um compromisso ou objetivo assumido.
           Reconhecimento: Reconhecemos um ao outro publicamente para que ele se sinta valorizado e saiba que está fazendo um trabalho bom ou ruim.
           Inovação: Somos livres para exercer a criatividade e pensar no tipo de futuro que podemos realizar hoje.
           Trabalho em equipe: Criamos juntos porque nossa sinergia nos permite criar mais e melhor.
