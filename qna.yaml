@@ -116,7 +116,7 @@ seed_examples:
           Qual foi a última premiação da Vibe tecnologia no GPTW?
         answer: |
           Foi em 2024, conquiatando o quinto lugar entre empresas de médio porte, entre 99 e 100 funcionários.
-   - context: |
+  - context: |
       A Vibe Tecnologia tem um proósito, valores e princípios bem definidos.
     questions_and_answers:
       - question: |
